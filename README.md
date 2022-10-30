@@ -12,6 +12,7 @@ A God class is a class that does too much:
 
 • does not abstract from the domain, since it is usually entangled with multiple implementation details (hence it is also difficult to test)
 
+<br>
 
 
 Short explaination of what I have done:
