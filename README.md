@@ -2,7 +2,9 @@
 
 This project identify God Classes from Java files. The detailed explaination is provided in the file "IMA_Project_1_ZhiziWen.pdf".
 
-Definition:
+<br>
+
+<B>Definition:</B>
 
 A God class is a class that does too much: 
 
@@ -15,7 +17,7 @@ A God class is a class that does too much:
 <br>
 
 
-Short explaination of what I have done:
+<B>Short explaination of what I have done:</B>
 
 •	In find_god_class.py, I conduct data pre-processing to identify God classes in 700 Java files. Four god classes are found, e.g., CoreDocumentImpl. 
 
